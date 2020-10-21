@@ -1,2 +1,4 @@
 veritabani
 veritabani.txt
+belgeler/*
+!belgeler/dosya.txt
